@@ -20,6 +20,8 @@ The following table contains a brief description of the files and folders in thi
 | Folder / File | Description |
 | - | - |
 | **Yang Leyuan_Iris.ipynb** | Main file for data preprocessing, data modelling and data visualization. |
+| **Yang Leyuan_Iris.pdf** | Slides for the solution delivery.|
+| **Yang Leyuan_Iris.pptx** | Slides for the solution delivery. |
 | **raw data** | Raw data downloaded from [Datasets](https://archive.ics.uci.edu/ml/datasets/Iris)  |
 | **image** | Plots for checking data quality |
 
