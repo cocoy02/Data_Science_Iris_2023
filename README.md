@@ -11,6 +11,7 @@ pip install -r requirements.txt
 To run the project:
 - Open `Yang Leyuan_Iris.ipynb`
 - Start the Kernel and Run All
+- Visit http://127.0.0.1:7777/ in your web browser
 
 Error shooting:
 - If the server is being used, please change the port to any number
