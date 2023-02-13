@@ -31,7 +31,7 @@ The following table contains a brief description of the files and folders in thi
 
 - Nearest Points: After the input of the new point, the table will show the nearest points in the whole dataset.
 ![burpple_plus_demo.gif](assets/Similar Points within the class.mov)
-<video src='Similar Points within the class.mov' width=180/> 
+<video src='assets/Similar Points within the class.mov' width=180/> 
 
 ## Built With
 - [scikit-learn](https://scikit-learn.org/stable/)
