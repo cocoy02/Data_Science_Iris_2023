@@ -27,7 +27,7 @@ The following table contains a brief description of the files and folders in thi
 
 ## Application Demo
 - Similar Points within the class: After the input of the new point, the table will show the similar points in the predicted class.
-![burpple_plus_demo.gif](assets/Similar Points within the class.mov)
+![burpple_plus_demo.gif](assets/check.gif)
 
 - Nearest Points: After the input of the new point, the table will show the nearest points in the whole dataset.
 ![burpple_plus_demo.gif](assets/Similar Points within the class.mov)
