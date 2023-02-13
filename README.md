@@ -20,8 +20,8 @@ The following table contains a brief description of the files and folders in thi
 | Folder / File | Description |
 | - | - |
 | **Yang Leyuan_Iris.ipynb** | Main file for data preprocessing, data modelling and data visualization. |
-| **raw data** | Raw data downloaded from [Dataset] (https://archive.ics.uci.edu/ml/datasets/Iris![image](https://user-images.githubusercontent.com/62579422/218456746-70fa999e-efd2-4e3d-a843-70d36905679a.png)) |
-| **scraping** | Folder containing code and scripts to trigger data scraping from the Burpple website. |
+| **raw data** | Raw data downloaded from [Dataset] (https://archive.ics.uci.edu/ml/datasets/Iris/) |
+| **image** | Plots for checking data quality |
 
 
 
