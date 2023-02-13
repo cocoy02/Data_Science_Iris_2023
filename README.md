@@ -20,13 +20,16 @@ The following table contains a brief description of the files and folders in thi
 | Folder / File | Description |
 | - | - |
 | **Yang Leyuan_Iris.ipynb** | Main file for data preprocessing, data modelling and data visualization. |
-| **raw data** | Raw data downloaded from [scikit-learn](https://archive.ics.uci.edu/ml/datasets/Iris)  |
+| **raw data** | Raw data downloaded from [Datasets](https://archive.ics.uci.edu/ml/datasets/Iris)  |
 | **image** | Plots for checking data quality |
 
 
 
 ## Application Demo
-On our application, users can search for a food or restaurant, and filter by location, category, and price range. The search outputs a list of restaurants sorted in decreasing overall score. Depending on user preferences, the output can also be sorted by 6 aspects: food, service, price, portion, ambience, time. On individual restaurant pages, basic restaurant information is provided, and users can view the individual reviews and its associated sentiment scores.
+- Similar Points within the class: After the input of the new point, the table will show the similar points in the predicted class.
+![burpple_plus_demo.gif](assets/burpple_plus_demo.gif)
+
+- Nearest Points: After the input of the new point, the table will show the nearest points in the whole dataset.
 ![burpple_plus_demo.gif](assets/burpple_plus_demo.gif)
 
 ## Built With
